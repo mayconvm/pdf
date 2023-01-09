@@ -10,7 +10,7 @@ Features
 
 ## Install:
 
-`go get -u github.com/ledongthuc/pdf`
+`go get -u github.com/dslipak/pdf`
 
 
 ## Read plain text
@@ -22,7 +22,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/ledongthuc/pdf"
+	"github.com/dslipak/pdf"
 )
 
 func main() {
